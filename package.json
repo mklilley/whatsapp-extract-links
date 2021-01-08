@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-extract-links",
+  "version": "0.0.1",
+  "description": "To help people extract links from an exported WhatsApp chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mklilley/whatsapp-extract-links.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mklilley/whatsapp-extract-links/issues"
+  },
+  "homepage": "https://github.com/mklilley/whatsapp-extract-links#readme"
+}
