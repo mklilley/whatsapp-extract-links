@@ -11,7 +11,7 @@ If you are anything like me, then you've got lots of group chats where you've sh
 ### Simple node.js usage
 
 - Make sure you've got [`node.js`](https://nodejs.org/en/download/) installed
-- Download `index.js` from this repository - easiest to do this by [saving the raw file from here](https://raw.githubusercontent.com/mklilley/whatsapp-extract-links/main/index.js)
+- Download `index.js` from this repository - easiest to do this is by [saving the raw file from here](https://raw.githubusercontent.com/mklilley/whatsapp-extract-links/main/index.js)
 - Run `node index.js` in the directory where you just downloaded the file
 - You'll then need to type the name of the file that contains your WhatsApp chat
   - You should be able to start typing and use `tab` to autocomplete the file name but I must confess I've not thoroughly tested this feature
