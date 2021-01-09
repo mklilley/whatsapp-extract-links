@@ -13,7 +13,7 @@ If you are anything like me, then you've got lots of group chats where you've sh
 - Make sure you've got [`node.js`](https://nodejs.org/en/download/) installed
 - Download `index.js` from this repository - easiest to do this is by [saving the raw file from here](https://raw.githubusercontent.com/mklilley/whatsapp-extract-links/main/index.js)
 - Run `node index.js` in the directory where you just downloaded the file
-- You'll then need to type the name of the file that contains your WhatsApp chat
+- You'll then need to type the name of the file that contains your WhatsApp chat - this should also be put in the same directory
   - You should be able to start typing and use `tab` to autocomplete the file name but I must confess I've not thoroughly tested this feature
   - If you need help exporting WhatsApp chat history, take a look at the [WhatsApp FAQs](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/)
 - You'll end up with two files:
@@ -25,7 +25,7 @@ If you are anything like me, then you've got lots of group chats where you've sh
 - Make sure you've got [`node.js`](https://nodejs.org/en/download/) installed - this will include `npm`
 - Download or clone the entire repo
 - Run `npm start` in the directory where you downloaded/cloned the repo
-- You'll then need to type the name of the file that contains your WhatsApp chat
+- You'll then need to type the name of the file that contains your WhatsApp chat - this should also be put in the same directory
   - You should be able to start typing and use `tab` to autocomplete the file name but I must confess I've not thoroughly tested this feature
   - If you need help exporting WhatsApp chat history, take a look at the [WhatsApp FAQs](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/)
 - You'll end up with two files:
