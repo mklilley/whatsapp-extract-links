@@ -28,6 +28,6 @@ If you are anything like me, then you've got lots of group chats where you've sh
 
 ---
 
-If you've found this tool helpful, then pease consider the gift of caffeination 😁. Thanks 🙏.
+If you've found this tool helpful, then pease consider the gift of caffeination 😁 . Thanks 🙏 .
 
 <a href="https://www.buymeacoffee.com/mklilley" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height = "60" ></a>
