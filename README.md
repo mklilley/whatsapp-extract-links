@@ -23,7 +23,6 @@ If you are anything like me, then you've got lots of group chats where you've sh
 - Download or clone the entire repo
 - Run `npm start` in the directory where you downloaded/cloned the repo
 - You'll then need to type the name of the file that contains your WhatsApp chat
-
   - You should be able to start typing and use `tab` to autocomplete the file name but I must confess I've not thoroughly test this feature
   - If you need help exporting WhatsApp chat history, take a look at the [WhatsApp FAQs](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/)
 
